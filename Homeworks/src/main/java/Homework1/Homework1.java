@@ -18,7 +18,7 @@ public class Homework1 {
         System.out.println("Double: " + myDouble);
         System.out.println("Long: " + myLong);
 
-        // Задание co зведочкой
+        // Задание co звездочкой
         int number = 345;
         String number_Str = Integer.toString(number);
         for (int i =0; i<number_Str.length(); i++) {

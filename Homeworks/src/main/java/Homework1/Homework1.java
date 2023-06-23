@@ -8,7 +8,7 @@ public class Homework1 {
         short myShort = 56;
         float myFloat = 4.7333436F;
         double myDouble = 4.355453532;
-        long myLong = 1212;
+        long myLong = 12121L;
 
         System.out.println("Character: " + myChar);
         System.out.println("Integer: " + myInt);

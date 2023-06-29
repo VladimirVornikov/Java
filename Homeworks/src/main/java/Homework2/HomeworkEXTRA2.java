@@ -5,7 +5,7 @@ public class HomeworkEXTRA2 {
     public static void main(String[] args) {
         Scanner myScannerInt1 = new Scanner(System.in);
         Scanner myScannerInt2 = new Scanner(System.in);
-        int myInt1, myInt2;
+        double myInt1, myInt2;
         System.out.print("Input first number = ");
         myInt1 = myScannerInt1.nextInt();
         System.out.print("Input second number = ");
@@ -23,3 +23,5 @@ public class HomeworkEXTRA2 {
 
             }
 }
+
+

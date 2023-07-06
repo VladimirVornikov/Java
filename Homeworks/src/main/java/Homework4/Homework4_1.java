@@ -38,12 +38,6 @@ public class Homework4_1 {
         int subHours = timeDefaultHours-hours;
         int subMinute =timeDefaultMinutes-minutes;
         int subSeconds = timeDefaultSeconds-seconds;
-//            String period;
-//            if (subHours>12) {
-//                period = " P.M";
-//            } else {
-//                period =" A.M";
-//            }
         if (hours > 2) {
             System.out.println("Сейчас "+ subHours +":" +subMinute +
                     ":" + subSeconds +". А значит, осталось " + hours + " часов " + minutes + " минут " +  seconds +
@@ -60,3 +54,7 @@ public class Homework4_1 {
         }
     }
 }
+
+////  Ответы на тест:
+//1.b 2.b 3.b 4.b 5.a 6.a 7.abde 8.abdf 9.e 10.c 11.c 12.b 13.a 14.c
+//15.a 16.d 17c 18.ab 19.a 20.c 21.c 22.a 23.a 24.c 25.a

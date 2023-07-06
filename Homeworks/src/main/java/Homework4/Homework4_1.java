@@ -55,6 +55,4 @@ public class Homework4_1 {
     }
 }
 
-////  Ответы на тест:
-//1.b 2.b 3.b 4.b 5.a 6.a 7.abde 8.abdf 9.e 10.c 11.c 12.b 13.a 14.c
-//15.a 16.d 17c 18.ab 19.a 20.c 21.c 22.a 23.a 24.c 25.a
+////  Ссылка на тест: https://docs.google.com/document/d/1ziZjP9fC976W72Ceku3E9FBtkLphYt3f00VAvxh8444/edit

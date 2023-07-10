@@ -2,7 +2,7 @@ package main.java.Homework4;
 import java.util.Scanner;
 
 import java.util.Random;
-public class Homework4_1 {
+public class Homework4 {
 
     public static void main(String[] args) {
 //        nearestNum();

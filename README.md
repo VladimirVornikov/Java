@@ -5,3 +5,4 @@
 - [Homework4](https://github.com/VladimirVornikov/Java/blob/main/Homeworks/src/main/java/Homework4/Homework4.java)
 - [Homework5](https://github.com/VladimirVornikov/Java/blob/main/Homeworks/src/main/java/Homework5/Homework5.java)
 - [Homework6](https://github.com/VladimirVornikov/Java/blob/main/Homeworks/src/main/java/Homework6/Homework6.java)
+- [Homework7](https://github.com/VladimirVornikov/Java/blob/main/Homeworks/src/main/java/Homework6/Homework7.java)

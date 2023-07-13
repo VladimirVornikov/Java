@@ -33,8 +33,15 @@ public class Homework7 {
             arr[i] = rd.nextInt(89)+10;
         }
         System.out.println(Arrays.toString(arr));
-        Arrays.sort(arr);
-        System.out.println("А этот массив отсортирован -> " + Arrays.toString(arr));
+        int[] arrSorted = arr.clone();
+        Arrays.sort(arrSorted);
+        System.out.println(Arrays.toString(arrSorted));
+        if (Arrays.equals(arr, arrSorted)) {
+            System.out.println("Массив отсортирован!");
+        } else {
+            System.out.println("Массив не отсортирован ^_^ ");
+        }
+
 
     }
 }

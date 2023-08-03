@@ -1,7 +1,7 @@
 package main.java.Homework8;
 import java.util.Arrays;
 
-public class Homework8 {
+public class Homework8_1 {
         public static int getMissingNumber(int[] arr) {
             int n = arr.length;
             int m = n + 1;

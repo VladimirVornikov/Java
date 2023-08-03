@@ -1,6 +1,8 @@
 package main.java.Homework5;
+
 import java.util.Random;
 import java.util.Scanner;
+
 public class Homework5 {
     public static void main(String[] args) {
         Random rd = new Random();
@@ -55,16 +57,17 @@ public class Homework5 {
     }
 
     static void canBuy(boolean isEdekaOpenResult, boolean isReweOpenResult) {
-        if ( isEdekaOpenResult == true && isReweOpenResult == true) {
-            System.out.println("Я могу пойти в магазин и купить еды в Edeke и в Rewe" ) ;
+        if (isEdekaOpenResult == true && isReweOpenResult == true) {
+            System.out.println("Я могу пойти в магазин и купить еды в Edeke и в Rewe");
         } else if (isEdekaOpenResult == true) {
-            System.out.println("Я могу пойти в магазин и купить еды в Edeke" ) ;
+            System.out.println("Я могу пойти в магазин и купить еды в Edeke");
         } else if (isReweOpenResult == true) {
-            System.out.println("Я могу пойти в магазин и купить еды в Rewe" ) ;
+            System.out.println("Я могу пойти в магазин и купить еды в Rewe");
         } else {
             System.out.println("Все закрыто, придётся ждать до завтра!!!");
         }
     }
+
     public static boolean isLeap(int year) {
         if (year % 4 == 0) {
             if (year % 100 == 0) {
@@ -80,6 +83,7 @@ public class Homework5 {
             return false;
         }
     }
+
     public static int findMax(int a, int b, int c) {
         int max = a;
 

@@ -11,9 +11,9 @@ public class Homework8 {
         }
 
         public static void main(String[] args) {
-            int[] array1 = {1, 2, 3, 5};
+            int[] array1 = {1,2,3,5};
             int[] array2 = {6,1,2,8,3,4,7,10,5};
-            int[] array3 = {1, 3, 6, 7, 9, 8, 5, 4};
+            int[] array3 = {1,3,6,7,9,8,5,4};
 
             System.out.println("The missing number is " + getMissingNumber(array1));
             System.out.println("The missing number is " + getMissingNumber(array2));
